@@ -38,7 +38,7 @@ A simple application that demonstrates Ownership concept with Rust language.
 ✅ Compile and run the program to test its functionality.
 
 
-### 2- Building a Custom Filtering Function in Rust
+### 3- Building a Custom Filtering Function in Rust
 
 ### Steps
 1. Define a struct called FilterCondition with a single field of the desired type for filtering.
